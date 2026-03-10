@@ -1,4 +1,1 @@
-ok
-fradhmc/fradhmc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+saya seorang siswa smk jurusan rpl yang cukup terampil dalam bisang saya
